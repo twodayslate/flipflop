@@ -1,0 +1,9 @@
+Package: com.twodayslate.flipflop
+Name: flipflop
+Depends: mobilesubstrate, libactivator (>= 1.8.3)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Alt+Tab for your iDevice
+Maintainer: twodayslate
+Author: twodayslate
+Section: Tweaks

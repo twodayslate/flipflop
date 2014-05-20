@@ -1,0 +1,10 @@
+Package: com.twodayslate.flipflop
+Name: flipflop
+Depends: mobilesubstrate, libactivator (>= 1.8.3)
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: twodayslate
+Author: twodayslate
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 72
